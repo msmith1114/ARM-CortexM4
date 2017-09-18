@@ -1,9 +1,17 @@
 // ***** 0. Documentation Section *****
-// TableTrafficLight.c for Lab 10
-// Runs on LM4F120/TM4C123
-// Index implementation of a Moore finite state machine to operate a traffic light.  
-// Daniel Valvano, Jonathan Valvano
-// January 15, 2016
+/**
+ * UTAustinX: UT.6.10x Embedded Systems - Shape the World
+ * Lab 10: Traffic Light
+ *
+ * File Name: TrafficMain.c
+ *
+ * Description:
+ * Simulates a traffic light system with 3 Sensor Modes: South, West and Pedestrian Crosswalk
+ *   
+ * Author: Matt SMith
+ * Created: August 17, 2017
+ * 
+ */
 
 // east/west red light connected to PB5
 // east/west yellow light connected to PB4
@@ -27,7 +35,7 @@
 
 #define LIGHT                   (*((volatile unsigned long *)0x400050FC)) //PORT B
 #define SENSOR                  (*((volatile unsigned long *)0x4002401C)) //PORT E
-#define WALK										(*((volatile unsigned long *)0x40025028)) //PORT F
+#define WALK			(*((volatile unsigned long *)0x40025028)) //PORT F
 
 // ***** 2. Global Declarations Section *****
 
