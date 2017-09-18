@@ -142,6 +142,7 @@ eagle.epf
 *._2i
 *.l1p
 *.l2p
+*.uvproj
 *.iex
 .#*
 *.uvgui.*
