@@ -8,7 +8,7 @@
  * Description:
  * Simulates a traffic light system with 3 Sensor Modes: South, West and Pedestrian Crosswalk
  *   
- * Author: Matt SMith
+ * Author: Matt Smith
  * Created: August 17, 2017
  * 
  */
