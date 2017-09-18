@@ -1,7 +1,7 @@
 // ***** 0. Documentation Section *****
 /**
  * UTAustinX: UT.6.10x Embedded Systems - Shape the World
- * Lab 10: Traffic Light
+ * Lab 8: SwitchLEDinterface
  *
  * File Name: BasicSwitch.c
  *
