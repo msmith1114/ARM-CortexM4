@@ -6,6 +6,8 @@ Part1: https://www.edx.org/course/embedded-systems-shape-world-utaustinx-ut-6-10
 
 Part2: https://www.edx.org/course/embedded-systems-shape-world-multi-utaustinx-ut-6-20x
 
+As well as storing my personal projects using the ARM Cortex M architecture.
+
 The course has a series of Labs that encompass many different aspects of embedded programming. 
 
 Why did I not include every lab? I felt it wasn't necessary as later labs include aspects from smaller previous labs (For example the first 5 labs have their examples in the "BasicSwitch" example).
