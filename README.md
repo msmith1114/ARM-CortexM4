@@ -4,8 +4,6 @@ This repository stores all the Important examples from UTAustinX's Online edX co
 
 Part1: https://www.edx.org/course/embedded-systems-shape-world-utaustinx-ut-6-10x
 
-Part2: https://www.edx.org/course/embedded-systems-shape-world-multi-utaustinx-ut-6-20x
-
 As well as storing my personal projects using the ARM Cortex M architecture.
 
 The course has a series of Labs that encompass many different aspects of embedded programming. 
